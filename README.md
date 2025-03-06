@@ -22,7 +22,7 @@ Quick Install : [https://github.com/DippityDapper/lokr-mod-manager/zipball/maste
 ## Installing the Mod through the Mod Manager
 
 1. Click the `Mod Download` button and `Install`
-2. Once the loading bar says "Finished!" you may close the Manager and play!
+2. Give the mod some time to download, and once it says "Finished Installing!", you're good to play the game!
 3. Have fun!
 
 ---
